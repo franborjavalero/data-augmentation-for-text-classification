@@ -1,6 +1,0 @@
-[submodule "da_methods/eda_nlp"]
-	path = da_methods/eda_nlp
-	url = https://github.com/franborjavalero/eda_nlp
-[submodule "da_methods/Pretrained-Language-Model"]
-	path = da_methods/Pretrained-Language-Model
-	url = https://github.com/franborjavalero/Pretrained-Language-Model
