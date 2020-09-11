@@ -2,7 +2,7 @@
 
 # Data augmentation for text classification
 
-This is an open source implementation of my Master Thesis: "Data augmentation for text classification" in collaboration with Kustomer, Inc. 
+This is an open source implementation of my Master's Thesis: "Data augmentation for text classification" in collaboration with Kustomer, Inc. 
 
 The main goal of this research is to demonstrate whether the use of the data augmentation techniques help to build text classifiers with better performance.
 
