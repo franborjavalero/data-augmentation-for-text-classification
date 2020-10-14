@@ -6,7 +6,7 @@ This is an open source implementation of my Master's Thesis: "Data augmentation 
 
 The main goal of this research is to demonstrate whether the use of the data augmentation techniques help to build text classifiers with better performance.
 
-This README is a superficial overview of the work. All the aspects are deeper explained in the published Master's Thesis report.
+This README is a superficial overview of the work. All the aspects are deeper explained in the published [Master's Thesis report](https://riunet.upv.es/handle/10251/151669).
 
 ## Data augmentation techniques (DAT)
 The three data augmentation techniques (DAT) used in this project are the nexts:
@@ -143,7 +143,7 @@ The main lesson learned after analyzing the results obtained on the different ex
 
 ## Reference 
 
-[TODO: link - published Master's Thesis report](https://riunet.upv.es/)
+[Master's Thesis report](https://riunet.upv.es/handle/10251/151669)
 
 ## License
  
